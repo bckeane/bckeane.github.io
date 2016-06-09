@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Brunch with Brian's Brain"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Brian Keane"
+description              : "Brunch with Brian's Brain."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
