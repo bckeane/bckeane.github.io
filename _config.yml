@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brunch with Brian's Brain"
+title                    : "Brian's Brain Drain"
 title_separator          : "-"
 name                     : "Brian Keane"
-description              : "Brunch with Brian's Brain."
+description              : "Brian's Brain Drain"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brian Keane"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Becuase."
+  location         : "Middlebury, CT"
   email            :
   uri              :
   bitbucket        :
